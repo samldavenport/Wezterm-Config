@@ -53,7 +53,7 @@ config.background = {
         source = {
             File = images[math.random(#images)],
         },
-        opacity = 0.10,
+        opacity = 0.05,
     }
 }
 
