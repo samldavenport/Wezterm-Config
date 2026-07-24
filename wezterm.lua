@@ -70,7 +70,7 @@ config.background                = {
 config.color_scheme              = "Gruvbox Material (Gogh)"
 config.colors                    = {
 
-    cursor_bg = "#b1fc03",
+    cursor_bg = "#b8bb26",
 }
 
 
